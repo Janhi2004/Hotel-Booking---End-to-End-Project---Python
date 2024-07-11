@@ -32,30 +32,4 @@ In recent years, City Hotel and Resort Hotel have seen high cancellation rates. 
 3. **Marketing Campaigns in January:** Since January has the highest cancellation rates, hotels can initiate marketing campaigns or promotions during this month to increase revenue.
 4. **Quality and Service Improvements:** Improving the quality of hotels and their services, particularly in Portugal, could help reduce cancellation rates.
 
-## Project Structure
-- `data/`: Contains datasets used for analysis.
-- `notebooks/`: Jupyter notebooks with detailed analysis.
-- `scripts/`: Python scripts for data preprocessing and analysis.
-- `results/`: Visualizations and summary of findings.
-- `README.md`: This document.
 
-## Getting Started
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/hotel-booking-cancellations.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd hotel-booking-cancellations
-    ```
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-4. Run the analysis notebooks or scripts.
-
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or additions.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
